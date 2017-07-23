@@ -60,3 +60,4 @@ Right Join and Outer Join rarely used
 
 #### References:
 * Thomas Nield - Getting Started with SQL
+* CodeAcademy
